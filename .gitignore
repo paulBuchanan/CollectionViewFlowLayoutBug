@@ -1,0 +1,26 @@
+# Xcode files #
+###############
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspective*
+*.xcodeproj/*.mode*
+*.xcodeproj/xcuserdata/*
+*.xcworkspace/xcuserdata/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*
+
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project files #
+#################
+
+build/*
+output/*
